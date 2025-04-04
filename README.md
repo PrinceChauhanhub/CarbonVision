@@ -33,15 +33,15 @@ CarbonVision is an AI-powered Carbon Footprint Calculator built using Streamlit.
 > - label_encoders.pkl
 > - scaler.pkl
 
-CarbonVision/ 
-│ ├── app.py 
-# Main Streamlit app ├── ensemble_model.pkl 
-# Trained ensemble model ├── dummy_columns.pkl 
-# Dummy column reference ├── label_encoders.pkl 
-# Label encoders for categorical data ├── scaler.pkl 
-# Feature scaler ├── requirements.txt 
-# Required packages └── README.txt 
-# Project documentation (this file)
+CarbonVision/
+│
+├── app.py                 # Main Streamlit app
+├── ensemble_model.pkl     # Trained ensemble model
+├── dummy_columns.pkl      # Dummy column reference
+├── label_encoders.pkl     # Label encoders for categorical data
+├── scaler.pkl             # Feature scaler
+├── requirements.txt       # Required packages
+└── README.txt             # Project documentation (this file)
 
 ## 🧠 Tech Stack
 
@@ -49,6 +49,7 @@ CarbonVision/
 - Streamlit 🚀
 - Scikit-learn 🤖
 - Pandas & NumPy 🧮
+- matplotlib & seaborn
 
 ## 🙌 Contribution
 
