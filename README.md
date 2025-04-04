@@ -2,6 +2,10 @@
 
 CarbonVision is an AI-powered Carbon Footprint Calculator built using Streamlit. It helps users estimate their monthly carbon emissions based on personal lifestyle choices across multiple categories like Travel, Waste, Energy, and Consumption.
 
+## 🚀 Try it Out
+
+[Check out the live app here](https://carbonvision.streamlit.app/)
+
 ## 🔍 Features
 
 - Multi-tab navigation for different lifestyle sections:
