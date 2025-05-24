@@ -1,0 +1,19 @@
+[[pages]]
+path = "Home.py"
+name = "🏠 Home"
+icon = "house"
+
+[[pages]]
+path = "pages/carbonfootprint.py"
+name = "🌱 Carbon Footprint"
+icon = "leaf"
+
+[[pages]]
+path = "pages/dashboard.py"
+name = "📊 Dashboard"
+icon = "bar-chart"
+
+[[pages]]
+path = "pages/aboutus.py"
+name = "ℹ️ About Us"
+icon = "info"
