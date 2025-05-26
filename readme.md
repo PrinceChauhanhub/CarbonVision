@@ -64,4 +64,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 **Prince Chauhan**  
 📧 princechauhan220103@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/princechauhan22/)
