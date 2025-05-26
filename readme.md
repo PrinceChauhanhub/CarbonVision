@@ -48,7 +48,7 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
   <a target="_blank" href="https://www.linkedin.com/in/shivam-sahu91/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 - ### 🙋‍♀️Sanskrati Mishra
-  <a target="_blank" href="https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 ## 🤝 Contributing
 
