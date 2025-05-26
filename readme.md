@@ -45,7 +45,23 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
 ## 👨‍👩‍👧‍👦Team Members 
 
 - ### 🙋‍♂️Shivam Sahu
-- <a target="_blank" href="https://www.linkedin.com/in/shivam-sahu91/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivam-sahu91/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 - ### 🙋‍♀️Sanskrati Mishra
-- <a target="_blank" href="https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+1. Fork the Project  
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)  
+4. Push to the Branch (`git push origin feature/AmazingFeature`)  
+5. Open a Pull Request
+
+## 📬 Contact
+
+**Prince Chauhan**  
+[Gmail](princechauhan220103@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/princechauhan22/)
