@@ -63,6 +63,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📬 Contact
 
 **Prince Chauhan**  
-📧 princechauhan220103@gmail.com
+princechauhan220103@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/princechauhan22/)
